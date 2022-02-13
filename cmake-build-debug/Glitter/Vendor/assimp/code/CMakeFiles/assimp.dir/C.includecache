@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Glitter/Vendor/assimp/contrib/zlib/zlib.h
+zconf.h
+../Glitter/Vendor/assimp/contrib/zlib/zconf.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/code/AssetLib/Assjson/cencode.c
+cencode.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/code/AssetLib/Assjson/cencode.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/code/AssetLib/Assjson/cencode.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/crypt.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+time.h
+-
+windows.h
+-
+wincrypt.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+zlib.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/zlib.h
+crypt.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/crypt.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/crypt.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/ioapi.c
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+unistd.h
+-
+ioapi.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/ioapi.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/ioapi.h
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+zlib.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/zlib.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/unzip.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+errno.h
+-
+zlib.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/zlib.h
+unzip.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/unzip.h
+aes/aes.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/aes/aes.h
+aes/fileenc.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/aes/fileenc.h
+compression.h
+-
+crypt.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/crypt.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/unzip.h
+zlib.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/zlib.h
+ioapi.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/ioapi.h
+bzlib.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/unzip/bzlib.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/zip/src/miniz.h
+stdint.h
+-
+stdlib.h
+-
+time.h
+-
+assert.h
+-
+string.h
+-
+stdio.h
+-
+sys/stat.h
+-
+sys/utime.h
+-
+sys/utime.h
+-
+sys/utime.h
+-
+utime.h
+-
+utime.h
+-
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/zip/src/zip.c
+errno.h
+-
+sys/stat.h
+-
+time.h
+-
+direct.h
+-
+unistd.h
+-
+miniz.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/zip/src/miniz.h
+zip.h
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/zip/src/zip.h
+
+C:/Program Files (x86)/Glitter/Glitter/Vendor/assimp/contrib/zip/src/zip.h
+string.h
+-
+sys/types.h
+-
+
+Glitter/Vendor/assimp/contrib/zlib/zconf.h
+stddef.h
+-
+windows.h
+-
+limits.h
+-
+sys/types.h
+-
+stdarg.h
+-
+stddef.h
+-
+unistd.h
+-
+unixio.h
+-
+

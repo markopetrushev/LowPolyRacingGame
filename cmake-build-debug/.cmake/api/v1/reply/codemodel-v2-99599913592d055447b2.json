@@ -1,0 +1,506 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/glfw",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Glitter.Vendor.glfw-Debug-cf576e4eb77b3268a8b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Glitter/Vendor/glfw",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Glitter.Vendor.glfw.src-Debug-5917f67dd0bc7d27873c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "Glitter/Vendor/glfw/src",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/assimp",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Glitter.Vendor.assimp-Debug-a3eb509d93b2c1ade0a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Glitter/Vendor/assimp"
+				},
+				{
+					"build" : "Glitter/Vendor/assimp/code",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Glitter.Vendor.assimp.code-Debug-f0cf80d66090cf2960b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "Glitter/Vendor/assimp/code",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet",
+					"childIndexes" : 
+					[
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Glitter.Vendor.bullet-Debug-a282afbe2e0c03200235.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet"
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					],
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src-Debug-1dafa1e6e8723cd9b2c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src"
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3OpenCL",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3OpenCL-Debug-21b00dad182bc8456f5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3OpenCL",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3Serialize/Bullet2FileLoader",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3Serialize.Bullet2FileLoader-Debug-40640b134ce3b3f46e27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3Serialize/Bullet2FileLoader",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3Dynamics",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3Dynamics-Debug-fea4b716e9cf120e0314.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3Dynamics",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3Collision",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3Collision-Debug-43917a4c7b852f601e57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3Collision",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3Geometry",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3Geometry-Debug-de44a40425047e09a82f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3Geometry",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/BulletInverseDynamics",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.BulletInverseDynamics-Debug-35ab1e9d66f27a60add8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/BulletInverseDynamics",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/BulletSoftBody",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.BulletSoftBody-Debug-a08adb73d9b2e722726e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/BulletSoftBody",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/BulletCollision",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.BulletCollision-Debug-21f87a42b48e7dd3bc24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/BulletCollision",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/BulletDynamics",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.BulletDynamics-Debug-a9ce335882e4d2d9c5e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/BulletDynamics",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/LinearMath",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.LinearMath-Debug-4d900f1c7b87ad2e1a24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/LinearMath",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Glitter/Vendor/bullet/src/Bullet3Common",
+					"jsonFile" : "directory-Glitter.Vendor.bullet.src.Bullet3Common-Debug-b6f31e77978d04cd3594.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 3,
+					"source" : "Glitter/Vendor/bullet/src/Bullet3Common",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Glitter",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "Assimp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					],
+					"name" : "BULLET_PHYSICS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 8,
+					"id" : "Bullet2FileLoader::@dd0804bbf1232d512ac8",
+					"jsonFile" : "target-Bullet2FileLoader-Debug-756e7965b54fec8ba867.json",
+					"name" : "Bullet2FileLoader",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Bullet3Collision::@52a77426cb8a23d993f5",
+					"jsonFile" : "target-Bullet3Collision-Debug-9bad26f1a3f132101483.json",
+					"name" : "Bullet3Collision",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "Bullet3Common::@30589118b317591ce0ce",
+					"jsonFile" : "target-Bullet3Common-Debug-853884ab6b95f02e48e1.json",
+					"name" : "Bullet3Common",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Bullet3Dynamics::@e2a41125091487c5ee2c",
+					"jsonFile" : "target-Bullet3Dynamics-Debug-8f475be5f6e828a87b7a.json",
+					"name" : "Bullet3Dynamics",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "Bullet3Geometry::@156424bcbbac1c24495f",
+					"jsonFile" : "target-Bullet3Geometry-Debug-c0ab6b3b9a6efe28695a.json",
+					"name" : "Bullet3Geometry",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Bullet3OpenCL_clew::@5d9fd46252634d325d5b",
+					"jsonFile" : "target-Bullet3OpenCL_clew-Debug-961a3519a01aa2cf4ce5.json",
+					"name" : "Bullet3OpenCL_clew",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "BulletCollision::@133acac409b45cbddcaa",
+					"jsonFile" : "target-BulletCollision-Debug-27270975d20369307434.json",
+					"name" : "BulletCollision",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "BulletDynamics::@93005b9d7190a7cdcf4d",
+					"jsonFile" : "target-BulletDynamics-Debug-ad70b9da75487e66404a.json",
+					"name" : "BulletDynamics",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "BulletInverseDynamics::@a6b630b9f50597e21013",
+					"jsonFile" : "target-BulletInverseDynamics-Debug-32f9bffdcd298105706c.json",
+					"name" : "BulletInverseDynamics",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "BulletSoftBody::@c436276bcf57bf51c125",
+					"jsonFile" : "target-BulletSoftBody-Debug-95586d0fefef7bb270c3.json",
+					"name" : "BulletSoftBody",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Glitter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Glitter-Debug-20965679f96cd067a395.json",
+					"name" : "Glitter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "LinearMath::@bb4b68cfec577642d218",
+					"jsonFile" : "target-LinearMath-Debug-79e29e65183e56c05d18.json",
+					"name" : "LinearMath",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "assimp::@7d6a4a5f0af8cf7dca71",
+					"jsonFile" : "target-assimp-Debug-feaf66109f73298a4ba0.json",
+					"name" : "assimp",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@99e4e65676ee6623034e",
+					"jsonFile" : "target-glfw-Debug-6e782c1e54aba5c909cb.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@ce35d25217d6d54dff5d",
+					"jsonFile" : "target-uninstall-Debug-8c9e3afe9f6bdfcf7a3c.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Glitter/cmake-build-debug",
+		"source" : "D:/Glitter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
